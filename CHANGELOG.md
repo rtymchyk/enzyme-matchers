@@ -1,3 +1,9 @@
+4.0.2
+=====
+  * Improved toHaveState's support for nested objects (@andreysaleba)
+  * Skip circular check explicitly (@aaronjensen)
+  * Output of toIncludeText should be consistent with that of toHaveText (@enthudrives)
+
 4.0.1
 =====
   * Remove the dependency on @types/react (@Vinnl)
